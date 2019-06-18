@@ -1,0 +1,26 @@
+{
+  "name": "repo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-quickstart": "guide test.js --local"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amechi101/repo-generator.git"
+  },
+  "author": "Amechi Egbe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amechi101/repo-generator/issues"
+  },
+  "homepage": "https://github.com/Amechi101/repo-generator#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "fs-extra": "^8.0.1",
+    "guide-automation": "^0.3.11",
+    "inquirer": "^6.3.1"
+  }
+}
